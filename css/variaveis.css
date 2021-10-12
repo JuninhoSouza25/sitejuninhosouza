@@ -1,0 +1,14 @@
+:root {
+    /* CSS HEX */
+    --preto: #000000ff;
+    --amarelo-claro: #e8eb93ff;
+    --amarelo: #fbe342ff;
+    --pastel: #ccb992ff;
+    --roxo: #9c8fe2ff;
+    --verde-musgo: #85ab78ff;
+    --verde: #6dc70dff;
+    --roxo-2: #8e82f8ff;
+    --font-principal: 'Roboto Mono', monospace;
+    --font-titulo: 'Bebas Neue', cursive;
+
+}
